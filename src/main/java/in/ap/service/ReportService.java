@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 import in.ap.request.SearchRequest;
 import in.ap.response.SearchResponse;
 
-public interface EligiblityService {
+public interface ReportService {
 	
 	
 	public List<String> getUniquePlanName();
